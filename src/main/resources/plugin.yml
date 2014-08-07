@@ -1,0 +1,8 @@
+name: NoFlatlands
+main: com.elmakers.mine.bukkit.NoFlatlandsPlugin
+version: ${project.version}
+website: http://mine.elmakers.com
+author: NathanWolf
+description : A plugin to automatically regenerate flatland chunks
+softdepend: [WorldGuard]
+#load: startup

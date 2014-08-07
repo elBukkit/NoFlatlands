@@ -1,0 +1,9 @@
+
+#
+# This configuration will determine which worlds this plugin cares about.
+#
+# For safety reasons, the plugin is entirely off by default.
+#
+
+# Add the worlds you want regenerated here
+worlds: []
